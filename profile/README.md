@@ -3,7 +3,7 @@
 # 🎮 Unblocked Games 76 — Free Online Fun & Learning
 
 <p align="center">
-<h1>  <a href="https://lesson-5.guru" target="_blank">
+<h1>  <a href="https://k12guru.nl" target="_blank">
     <img src="https://img.shields.io/badge/🚀-Play%20 on Lesson--5.guru-blue?style=for-the-badge&logo=google-chrome" alt="Play ON Lesson-5.guru">
   </a></h1>
   &nbsp;
