@@ -12,7 +12,6 @@
   </a></h1>
 </p>
 
----
 
 ## About Unblocked Games 76
 **Unblocked Games 76** is a popular platform that allows students and workers to enjoy **free browser-based games** anywhere — even on restricted networks.  
