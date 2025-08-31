@@ -7,8 +7,8 @@
     <img src="https://img.shields.io/badge/🚀-Play%20 on k12guru.nl-blue?style=for-the-badge&logo=google-chrome" alt="Play ON Lesson-5.guru">
   </a></h1>
   &nbsp;
-<h1>  <a href="https://subjectnotes.website/" target="_blank">
-    <img src="https://img.shields.io/badge/🎒-Play%20 on SubjectNotes.website-green?style=for-the-badge&logo=google-chrome" alt="Play ON SubjectNotes.website">
+<h1>  <a href="https://lessonhub.guru/" target="_blank">
+    <img src="https://img.shields.io/badge/🎒-Play%20 on LESSONHUB.GURU-green?style=for-the-badge&logo=google-chrome" alt="Play ON SubjectNotes.website">
   </a></h1>
 </p>
 
