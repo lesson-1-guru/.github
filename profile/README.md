@@ -87,15 +87,4 @@ Yes, both sites are safe, kid-friendly, and built for learning.
 
 ---
 
-## Disclaimer
-
-This is an **unofficial SEO-friendly guide** for players and students.
-All trademarks, games, and educational content belong to their respective creators.
-
----
-
-```
-
----
-
 
